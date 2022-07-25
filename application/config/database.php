@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'id19317998_easymacbookdb',
-	'password' => 'awex^/<&Eh}B>Hs8',
-	'database' => 'id19317998_easymacbook',
+	'hostname' => 'sql3.freesqldatabase.com',
+	'username' => 'sql3508564',
+	'password' => 'LsKjnv1IfW',
+	'database' => 'sql3508564',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
